@@ -19,14 +19,14 @@
 
 Lovable Community Korea는 커뮤니티의 운영 방향과 표준을 함께 만들어갑니다. 아래 링크에서 진행중인 논의에 참여해주세요!
 
-- **라이센스(License) Proposal 논의:** [바로가기](https://github.com/LovableCommuntiyKorea/community/discussions/1)
-- **프로젝트 표준(Project Standard) Proposal 논의:** [바로가기](https://github.com/LovableCommuntiyKorea/community/discussions/2)
+- **라이센스(License) Proposal 논의:** [바로가기](https://discord.com/channels/1408062170255851562/1418734114990723202)
+- **프로젝트 표준(Project Standard) Proposal 논의:** [바로가기](https://discord.com/channels/1408062170255851562/1419078689525858354)
 
 > `https://korea-community.lovable.app/` 의 프로젝트 리스팅을 위해 표준을 정의하고 있습니다.
 
 <br/>
 
-## 💬 Q&A
+## 💬 커뮤니티 마스터 Q&A
 
 **Q1. Lovable Community Korea 는 어떤 곳인가요?**
 
@@ -35,6 +35,8 @@ A1. Lovable Community Korea는 한국에 Lovable.dev 커뮤니티가 없다는 �
 **Q2. Lovable.dev 팀 사람들은 참여 계획이 없나요?**
 
 A2. Lovable.dev 팀은 출시 첫 해(2025년)에 280,000명의 월간 활성 사용자, 94%의 고객 만족도를 달성한 팀이에요. 2025년 1월 출시하여, 2025년 5월 5천만 달러 ARR을 달성하며 엄청난 기록을 세웠어요. 근데요. 단 20명 내외의 팀원으로 말이죠. 그래서 굉장히 바쁜 팀이에요. Sebastian과 연락하며 커뮤니티 마스터인 제가 각을 보고 있어요.
+
+* 공식 커뮤니티 [디스코드](https://discord.gg/2KRB3gyX5p) 가 있어요.
 
 **Q3. `launched.lovable.dev` 가 뭔가요?**
 
@@ -49,6 +51,14 @@ A4. 재미랄까요. 제가 대학생 때 리그 오브 레전드라는 게임�
 A5. 전액 환원합니다. 저는 이 커뮤니티를 제 사리사욕을 채우기 위해 운영하는 것이 아니고, Q4에서 답변한 바와 같이 이 커뮤니티 활동을 통해 재미를 얻을 수 있다면 그것으로 충분합니다. AI, LLM 시대에서 이런 단순 반복 노동의 비용은 충분히 낮아졌고, 대가를 받을 정도의 무언가가 아니게 되었다고 생각합니다. 최초로 발생하게 되는 일이 생기면, 투명하게 공개하고 처리 과정을 공유드리겠습니다.
 
 <br/>
+
+## 참고
+
+| 이미지 | URL | 특이사항 |
+|--------|-----|----------|
+| <img src="../assets/lovable-logo-bg-dark.png" width="500px"> | [Lovable 바로가기](https://lovable.dev?via=lck-github-for-share) | Build Something Lovable |
+| <img src="../assets/LovableCommunityKoreaProfile.png" width="500px"> | [디스코드 커뮤니티](https://threads.com/@lovable.dev.korea) | Lovable Community Korea, 러버블 한국 사용자 모임 입니다. |
+| <img src="../assets/LovableCommunityKoreaProfile.png" width="500px"> | [챌린지 리더보드](https://korea-community.lovable.app) | Lovable Community Korea, 러버블 한국 사용자 모임 입니다. |
 
 ---
 
